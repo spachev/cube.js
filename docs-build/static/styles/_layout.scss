@@ -34,8 +34,9 @@ a {
 }
 
 .docContent {
-  font-size: 18px;
-  line-height: 30px;
+  font-family: $body-font;
+  font-size: 17px;
+  line-height: 29px;
 
   @media screen and (max-width: 576px) {
     font-size: 16px;
